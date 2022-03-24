@@ -22,12 +22,11 @@ The remainder of this file is configuration details used by AutoRest.
 ### Inputs
 
 ``` yaml
-use: '@autorest/go@https://github.com/Azure/autorest.go/releases/download/v4.0.0-preview.37/autorest-go-4.0.0-preview.37.tgz'
+use: '@autorest/go@latest'
 input-file: openapi.yaml
 output-folder: './../teamcloud'
 module: teamcloud
-module-version: '0.5.2'
-credential-scopes: openid
+module-version: '0.5.3'
 license-header: MICROSOFT_MIT_NO_VERSION
 clear-output-folder: true
 ```

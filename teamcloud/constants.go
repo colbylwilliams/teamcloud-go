@@ -12,7 +12,7 @@ const host = "https://teamclouddemo-api.azurewebsites.net"
 
 const (
 	moduleName = "teamcloud"
-	moduleVersion = "v0.5.2"
+	moduleVersion = "v0.5.3"
 )
 
 type AdapterInformationType string
