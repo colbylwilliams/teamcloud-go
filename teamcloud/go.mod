@@ -1,4 +1,4 @@
-module teamcloud
+module github.com/colbylwilliams/teamcloud-go/teamcloud
 
 go 1.16
 

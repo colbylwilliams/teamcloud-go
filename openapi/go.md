@@ -25,8 +25,8 @@ The remainder of this file is configuration details used by AutoRest.
 use: '@autorest/go@latest'
 input-file: openapi.yaml
 output-folder: './../teamcloud'
-module: teamcloud
-module-version: '0.5.3'
+module: 'github.com/colbylwilliams/teamcloud-go/teamcloud'
+module-version: '0.5.4'
 license-header: MICROSOFT_MIT_NO_VERSION
 clear-output-folder: true
 ```
